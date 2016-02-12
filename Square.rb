@@ -12,4 +12,8 @@ class Square
   def area
     side*side
   end
+
+  def unicorn
+    'ooh... sparkly'
+  end
 end
